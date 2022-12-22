@@ -1,0 +1,9 @@
+{
+	"name": "IBSPOCS",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f0789fc5-153c-4198-9a62-6507a9a4e9c7",
+		"tenantId": "bacad364-02af-44eb-b250-3e00e6af0403"
+	}
+}
